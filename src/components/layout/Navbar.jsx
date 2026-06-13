@@ -26,7 +26,7 @@ export default function Navbar() {
       <nav className="site-container nav-inner" aria-label="Primary navigation">
         <Link href="/#home" className="brand" aria-label={siteConfig.name}>
           <span className="brand-mark">{siteConfig.initials}</span>
-          <span className="brand-text">backend.lab</span>
+          <span className="brand-text">Ardi.dev</span>
         </Link>
 
         <div className="nav-links">

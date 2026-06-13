@@ -1,7 +1,7 @@
 export const siteConfig = {
   // GANTI BAGIAN INI sebelum publish.
   name: "Ardinanta",
-  initials: "NK",
+  initials: "AR",
   email: "ardinanta45@gmail.com",
   location: "Indonesia",
   github: "https://github.com/username",
