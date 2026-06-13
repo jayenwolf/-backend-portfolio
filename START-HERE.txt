@@ -1,0 +1,18 @@
+LANGKAH PALING SEDERHANA
+
+1. Install Node.js LTS, VS Code, dan Git.
+2. Ekstrak ZIP ini.
+3. Buka foldernya di VS Code.
+4. Buka Terminal di VS Code.
+5. Jalankan: npm install
+6. Jalankan: npm run dev
+7. Buka: http://localhost:3000
+8. Edit identitas di: src/data/site.js
+9. Baca: CUSTOMIZE-ME.md
+10. Sebelum publish jalankan: npm run check
+
+Untuk panduan Windows dan Vercel, baca INSTALL-WINDOWS.md.
+
+CATATAN WINDOWS:
+Jika PowerShell memblokir npm.ps1, gunakan npm.cmd.
+Untuk instalasi yang konsisten, jalankan: npm.cmd ci --no-audit --no-fund

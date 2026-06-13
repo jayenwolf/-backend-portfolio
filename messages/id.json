@@ -1,0 +1,124 @@
+{
+  "Metadata": {
+    "title": "Nama Kamu — Python Backend Developer",
+    "description": "Portofolio backend developer yang berfokus pada Python, API, database, dan sistem web."
+  },
+  "Navigation": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "skills": "Keahlian",
+    "projects": "Proyek",
+    "journey": "Perjalanan",
+    "contact": "Kontak",
+    "menu": "Buka menu",
+    "closeMenu": "Tutup menu"
+  },
+  "Theme": {
+    "light": "Gunakan mode terang",
+    "dark": "Gunakan mode gelap"
+  },
+  "Language": {
+    "label": "Ganti bahasa",
+    "id": "Indonesia",
+    "en": "English"
+  },
+  "Hero": {
+    "eyebrow": "PORTFOLIO / BACKEND LAB",
+    "greeting": "Halo, saya",
+    "role": "Python Backend Developer",
+    "description": "Saya membangun API yang rapi, mempelajari database, dan mengubah ide menjadi sistem backend yang dapat digunakan.",
+    "primaryCta": "Lihat proyek",
+    "secondaryCta": "Hubungi saya",
+    "cvCta": "Unduh CV",
+    "available": "Terbuka untuk kesempatan",
+    "learning": "Saat ini mempelajari",
+    "learningValue": "FastAPI · PostgreSQL · Docker"
+  },
+  "ApiFlow": {
+    "client": "Client",
+    "api": "API",
+    "service": "Service",
+    "database": "Database",
+    "request": "request",
+    "response": "response",
+    "status": "API portfolio",
+    "online": "online",
+    "checking": "memeriksa"
+  },
+  "About": {
+    "eyebrow": "TENTANG SAYA",
+    "title": "Saya tertarik pada proses yang bekerja di balik layar.",
+    "description1": "Fokus belajar saya adalah Python dan backend development: bagaimana request diproses, data divalidasi, disimpan, dan dikembalikan melalui API.",
+    "description2": "Website ini dibuat dengan Next.js sebagai wajah portofolio, sedangkan proyek-proyek saya tetap menonjolkan kemampuan backend.",
+    "card1Title": "Fokus",
+    "card1Value": "Backend",
+    "card2Title": "Bahasa utama",
+    "card2Value": "Python",
+    "card3Title": "Cara belajar",
+    "card3Value": "Build & iterate"
+  },
+  "Skills": {
+    "eyebrow": "TECH STACK",
+    "title": "Teknologi yang sedang saya gunakan dan pelajari.",
+    "description": "Daftar ini sengaja dibuat jujur dan mudah diperbarui. Hapus teknologi yang belum pernah kamu gunakan.",
+    "backend": "Backend",
+    "database": "Database",
+    "tools": "Tools",
+    "frontend": "Portfolio UI"
+  },
+  "Projects": {
+    "eyebrow": "SELECTED WORK",
+    "title": "Proyek backend yang menjelaskan cara saya berpikir.",
+    "description": "Setiap studi kasus berisi masalah, solusi, fitur, dan hal yang dipelajari—bukan hanya daftar teknologi.",
+    "viewCase": "Lihat studi kasus",
+    "source": "Source code",
+    "demo": "Live demo",
+    "comingSoon": "Tambahkan link",
+    "project": "Proyek"
+  },
+  "Journey": {
+    "eyebrow": "LEARNING JOURNEY",
+    "title": "Belajar secara bertahap, lalu membangun sesuatu.",
+    "pythonTitle": "Dasar Python",
+    "pythonText": "Sintaks, function, OOP, error handling, dan virtual environment.",
+    "databaseTitle": "Database dan SQL",
+    "databaseText": "Relasi tabel, query, constraint, migration, dan desain schema.",
+    "apiTitle": "REST API",
+    "apiText": "Routing, validation, authentication, documentation, dan testing.",
+    "deploymentTitle": "Deployment",
+    "deploymentText": "Docker, environment variable, logging, dan menjalankan aplikasi secara online."
+  },
+  "Contact": {
+    "eyebrow": "LET'S CONNECT",
+    "title": "Punya proyek atau ingin berdiskusi tentang backend?",
+    "description": "Form ini membuka aplikasi email di perangkatmu. Nanti kamu dapat menggantinya dengan backend FastAPI buatanmu sendiri.",
+    "name": "Nama",
+    "email": "Email",
+    "message": "Pesan",
+    "namePlaceholder": "Nama kamu",
+    "emailPlaceholder": "email@contoh.com",
+    "messagePlaceholder": "Ceritakan proyek atau pesanmu...",
+    "send": "Kirim pesan",
+    "copy": "Salin email",
+    "copied": "Email disalin",
+    "emailSubject": "Pesan dari website portofolio"
+  },
+  "Footer": {
+    "built": "Dibangun dengan Next.js, Tailwind CSS, dan Motion.",
+    "backToTop": "Kembali ke atas"
+  },
+  "ProjectDetail": {
+    "back": "Kembali ke semua proyek",
+    "overview": "Ringkasan",
+    "problem": "Masalah",
+    "solution": "Solusi",
+    "features": "Fitur utama",
+    "learning": "Yang dipelajari",
+    "architecture": "Arsitektur sederhana",
+    "frontend": "Client",
+    "backend": "Python API",
+    "database": "Database",
+    "editHint": "Data proyek ini masih berupa contoh. Ubah di src/data/projects.js sebelum publish.",
+    "notFound": "Proyek tidak ditemukan"
+  }
+}

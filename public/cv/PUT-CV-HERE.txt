@@ -1,0 +1,4 @@
+Letakkan CV PDF Anda di folder ini.
+Contoh nama: cv-nama-kamu.pdf
+Setelah itu ubah cvUrl di src/data/site.js menjadi:
+/cv/cv-nama-kamu.pdf

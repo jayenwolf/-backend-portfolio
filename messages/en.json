@@ -1,0 +1,124 @@
+{
+  "Metadata": {
+    "title": "Your Name — Python Backend Developer",
+    "description": "A backend developer portfolio focused on Python, APIs, databases, and web systems."
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "journey": "Journey",
+    "contact": "Contact",
+    "menu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "Theme": {
+    "light": "Use light mode",
+    "dark": "Use dark mode"
+  },
+  "Language": {
+    "label": "Change language",
+    "id": "Indonesia",
+    "en": "English"
+  },
+  "Hero": {
+    "eyebrow": "PORTFOLIO / BACKEND LAB",
+    "greeting": "Hello, I'm",
+    "role": "Python Backend Developer",
+    "description": "I build clean APIs, learn database systems, and turn ideas into usable backend applications.",
+    "primaryCta": "View projects",
+    "secondaryCta": "Contact me",
+    "cvCta": "Download CV",
+    "available": "Open to opportunities",
+    "learning": "Currently learning",
+    "learningValue": "FastAPI · PostgreSQL · Docker"
+  },
+  "ApiFlow": {
+    "client": "Client",
+    "api": "API",
+    "service": "Service",
+    "database": "Database",
+    "request": "request",
+    "response": "response",
+    "status": "Portfolio API",
+    "online": "online",
+    "checking": "checking"
+  },
+  "About": {
+    "eyebrow": "ABOUT ME",
+    "title": "I am interested in the processes working behind the scenes.",
+    "description1": "My learning focus is Python and backend development: how requests are processed, validated, stored, and returned through APIs.",
+    "description2": "This website uses Next.js as the portfolio interface, while my projects continue to highlight backend engineering skills.",
+    "card1Title": "Focus",
+    "card1Value": "Backend",
+    "card2Title": "Main language",
+    "card2Value": "Python",
+    "card3Title": "Learning style",
+    "card3Value": "Build & iterate"
+  },
+  "Skills": {
+    "eyebrow": "TECH STACK",
+    "title": "Technologies I currently use and learn.",
+    "description": "This list is intentionally honest and easy to update. Remove technologies you have never used.",
+    "backend": "Backend",
+    "database": "Database",
+    "tools": "Tools",
+    "frontend": "Portfolio UI"
+  },
+  "Projects": {
+    "eyebrow": "SELECTED WORK",
+    "title": "Backend projects that explain how I think.",
+    "description": "Each case study includes the problem, solution, features, and lessons learned—not just a technology list.",
+    "viewCase": "View case study",
+    "source": "Source code",
+    "demo": "Live demo",
+    "comingSoon": "Add link",
+    "project": "Project"
+  },
+  "Journey": {
+    "eyebrow": "LEARNING JOURNEY",
+    "title": "Learn step by step, then build something.",
+    "pythonTitle": "Python fundamentals",
+    "pythonText": "Syntax, functions, OOP, error handling, and virtual environments.",
+    "databaseTitle": "Databases and SQL",
+    "databaseText": "Table relationships, queries, constraints, migrations, and schema design.",
+    "apiTitle": "REST APIs",
+    "apiText": "Routing, validation, authentication, documentation, and testing.",
+    "deploymentTitle": "Deployment",
+    "deploymentText": "Docker, environment variables, logging, and running applications online."
+  },
+  "Contact": {
+    "eyebrow": "LET'S CONNECT",
+    "title": "Have a project or want to discuss backend development?",
+    "description": "This form opens the email application on your device. Later, you can replace it with your own FastAPI backend.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "email@example.com",
+    "messagePlaceholder": "Tell me about your project or message...",
+    "send": "Send message",
+    "copy": "Copy email",
+    "copied": "Email copied",
+    "emailSubject": "Message from portfolio website"
+  },
+  "Footer": {
+    "built": "Built with Next.js, Tailwind CSS, and Motion.",
+    "backToTop": "Back to top"
+  },
+  "ProjectDetail": {
+    "back": "Back to all projects",
+    "overview": "Overview",
+    "problem": "Problem",
+    "solution": "Solution",
+    "features": "Key features",
+    "learning": "What I learned",
+    "architecture": "Simple architecture",
+    "frontend": "Client",
+    "backend": "Python API",
+    "database": "Database",
+    "editHint": "This project data is still an example. Edit src/data/projects.js before publishing.",
+    "notFound": "Project not found"
+  }
+}
